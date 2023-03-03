@@ -1,0 +1,7 @@
+.btnClass{
+	margin: 10px;
+	
+}
+.btnClass:hover{
+	cursor: pointer;
+}
